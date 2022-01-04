@@ -1,0 +1,1 @@
+Copy-Item "$($PSScriptRoot)\nvim" "$($Env:HOMEPATH)\AppData\Local\" -Recurse -Force
