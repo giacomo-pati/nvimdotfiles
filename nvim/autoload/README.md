@@ -1,1 +1,0 @@
-Place VIMscripts here that should be automatically sourced
